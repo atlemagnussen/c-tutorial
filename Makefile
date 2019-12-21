@@ -8,5 +8,5 @@ functions : functions.h functions.c
 	cc -c functions.c
 
 clean : 
-	rm exe main.o functions.o
+	rm exe *.o
 
