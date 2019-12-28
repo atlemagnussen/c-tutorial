@@ -1,7 +1,7 @@
 cmake_minimum_required(VERSION 3.16)
 
 # set the project name
-project(myprogram LANGUAGES C VERSION "0.1.0")
+project(myprogram LANGUAGES C VERSION "0.1.1")
 
 # add the executable
 add_executable(myprogram src/main.c)
