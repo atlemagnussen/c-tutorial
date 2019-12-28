@@ -1,11 +1,8 @@
-#include "functions.h"
+#include "TutorialConfig.h"
 
 int main() {
-    int array[] = { 1, 11, 2, 22, 3, 33 };
-    int i;
-    for (i = 0; i < 6; i++) {
-        print_big(array[i]);
-    }
+    print("version");
+    print(Tutorial_VERSION_MAJOR);
     return 0;
 }
 
