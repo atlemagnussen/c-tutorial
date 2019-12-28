@@ -1,4 +1,9 @@
 exe
 *.o
-
+config.h
+myprogram
 build/
+CMakeCache.txt
+CMakeFiles
+cmake_install.cmake
+
