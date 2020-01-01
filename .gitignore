@@ -1,5 +1,6 @@
 exe
 *.o
+*.a
 config.h
 myprogram
 build/
