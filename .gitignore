@@ -3,6 +3,8 @@ exe
 *.a
 config.h
 myprogram
+test
+test2
 build/
 Makefile
 CMakeCache.txt
